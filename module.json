@@ -1,6 +1,6 @@
 {
     "name": "external-interface",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/external-interface/master/"],
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/External-Interface/master/"],
     "author": "Foglio/ KYGAS",
     "description": "Generic interface to feed TERA packets to external applications via HTTP and TCP connections.",
     "disableAutoUpdate": false,
